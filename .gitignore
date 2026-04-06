@@ -1,0 +1,19 @@
+# 监测数据（申请获取，不公开）
+06_project/*.csv
+06_project/*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
